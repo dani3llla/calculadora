@@ -15,7 +15,8 @@
     left: 50%;
     transform: translate(-50%,-50%);
     border-radius: 15px;
-    padding: 15px; /*  distância entre os elementos e a borda  */
+    padding: 20px; /*  distância entre os elementos e a borda  */
+    
 }
 
 .botao {
@@ -27,6 +28,7 @@
     background-color: #a589b2;
     border: none;
     color: #fff;
+    border-radius: 10px;
 }
 
 .botao:hover{
